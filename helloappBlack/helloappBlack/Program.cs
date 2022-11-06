@@ -1,1 +1,6 @@
-﻿Console.WriteLine("Hello everyone");
+Console.WriteLine("Hello everyone");
+
+static void GreetWhite() 
+{
+    Console.WriteLine("hello white");
+}
